@@ -1,0 +1,8 @@
+torch==1.13.0
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline
+torch-geometric==2.3.0
+scikit-learn==1.2.1
+numpy==1.23.5
